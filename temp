@@ -1,0 +1,4 @@
+inet 192.168.42.131<p>
+inet6 fe80::20c:29ff:fef6:7cd1<p>
+inet 127.0.0.1<p>
+inet6 ::1<p>
